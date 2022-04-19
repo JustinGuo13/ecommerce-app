@@ -4,7 +4,7 @@ import { NextPageWithLayout } from './page';
 
 const About: NextPageWithLayout = () => {
 	return (
-		<section>
+		<section className="font-lato">
 			<h2>Layout Example (About)</h2>
 			<p>
 				This example adds a property <code>getLayout</code> to your page, allowing you to
